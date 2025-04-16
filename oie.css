@@ -2,7 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: aliceblue;
     text-shadow: 6px 5px 6px #746D8A;
-    background-image: url(uiui.jpg);
+    background-image: url(sla.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
@@ -24,6 +24,13 @@ body {
     display: flex;
     justify-content: center;
     gap: 20px;
+    align-items: center;
+    background-color:#9967EA99;
+    border-radius: 25px;
+    box-shadow:5px 4px 5px #746D8A ;
+    opacity: 0.98;
+    margin:200px ;
+    padding:100px;
 }
 .text {
     display: inline;
